@@ -27,8 +27,8 @@
       <file leaf-file-name="b.4A60_TriCompSnapVertexCat.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/b.4A60_TriCompSnapVertexCat.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="270" column="0" selection-start-line="270" selection-start-column="0" selection-end-line="270" selection-end-column="0" />
+            <state relative-caret-position="435">
+              <caret line="266" column="0" selection-start-line="266" selection-start-column="0" selection-end-line="266" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -37,8 +37,8 @@
       <file leaf-file-name="b.4A60_TriCompExpHandlerVertexCat.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/b.4A60_TriCompExpHandlerVertexCat.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="61" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="703" selection-end-column="0" />
+            <state relative-caret-position="-7440">
+              <caret line="83" column="34" selection-start-line="83" selection-start-column="34" selection-end-line="83" selection-end-column="34" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -76,8 +76,8 @@
       <list>
         <option value="$PROJECT_DIR$/b.4A60_processVertexCat.php" />
         <option value="$PROJECT_DIR$/b.4A60_ajaxMessagesVertexCategorical.js" />
-        <option value="$PROJECT_DIR$/b.4A60_TriCompExpHandlerVertexCat.js" />
         <option value="$PROJECT_DIR$/b.4A60_TriCompSnapVertexCat.html" />
+        <option value="$PROJECT_DIR$/b.4A60_TriCompExpHandlerVertexCat.js" />
       </list>
     </option>
   </component>
@@ -89,7 +89,7 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="6" />
-    <option name="y" value="23" />
+    <option name="y" value="27" />
     <option name="width" value="1620" />
     <option name="height" value="987" />
   </component>
@@ -156,15 +156,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1469733398381</updated>
-      <workItem from="1469733399756" duration="12157000" />
+      <workItem from="1469733399756" duration="14092000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12157000" />
+    <option name="totallyTimeSpent" value="14092000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="6" y="23" width="1620" height="987" extended-state="0" />
+    <frame x="6" y="27" width="1620" height="987" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -227,16 +227,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/b.4A60_TriCompSnapVertexCat.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="270" column="0" selection-start-line="270" selection-start-column="0" selection-end-line="270" selection-end-column="0" />
+        <state relative-caret-position="435">
+          <caret line="266" column="0" selection-start-line="266" selection-start-column="0" selection-end-line="266" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/b.4A60_TriCompExpHandlerVertexCat.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="61" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="703" selection-end-column="0" />
+        <state relative-caret-position="-7440">
+          <caret line="83" column="34" selection-start-line="83" selection-start-column="34" selection-end-line="83" selection-end-column="34" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
