@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6bff28f1-5826-4784-80b9-ec6b1760ef7e" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/b.4A60_TriCompExpHandlerVertexCat.js" afterPath="$PROJECT_DIR$/b.4A60_TriCompExpHandlerVertexCat.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/b.4A60_TriCompSnapVertexCat.html" afterPath="$PROJECT_DIR$/b.4A60_TriCompSnapVertexCat.html" />
     </list>
     <ignored path="B.4A60.iws" />
@@ -23,21 +24,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="b.4A60_TriCompSnapVertexCat.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="b.4A60_TriCompSnapVertexCat.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/b.4A60_TriCompSnapVertexCat.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="671">
-              <caret line="329" column="5" selection-start-line="329" selection-start-column="5" selection-end-line="329" selection-end-column="5" />
+            <state relative-caret-position="896">
+              <caret line="293" column="0" selection-start-line="293" selection-start-column="0" selection-end-line="293" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="b.4A60_TriCompExpHandlerVertexCat.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="b.4A60_TriCompExpHandlerVertexCat.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/b.4A60_TriCompExpHandlerVertexCat.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="302">
-              <caret line="593" column="96" selection-start-line="593" selection-start-column="96" selection-end-line="593" selection-end-column="96" />
+            <state relative-caret-position="512">
+              <caret line="473" column="96" selection-start-line="473" selection-start-column="96" selection-end-line="473" selection-end-column="96" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -45,21 +46,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="b.4A60_processVertexCat.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/b.4A60_processVertexCat.php">
+      <file leaf-file-name="TriCompExpHandlerAng2.js" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Downloads/TriCompExpHandlerAng2.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="40" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="46" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="b.4A60_ajaxMessagesVertexCategorical.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/b.4A60_ajaxMessagesVertexCategorical.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1185">
-              <caret line="79" column="30" selection-start-line="79" selection-start-column="30" selection-end-line="79" selection-end-column="30" />
+            <state relative-caret-position="225">
+              <caret line="336" column="2" selection-start-line="336" selection-start-column="2" selection-end-line="336" selection-end-column="2" />
               <folding />
             </state>
           </provider>
@@ -75,8 +66,8 @@
       <list>
         <option value="$PROJECT_DIR$/b.4A60_processVertexCat.php" />
         <option value="$PROJECT_DIR$/b.4A60_ajaxMessagesVertexCategorical.js" />
-        <option value="$PROJECT_DIR$/b.4A60_TriCompExpHandlerVertexCat.js" />
         <option value="$PROJECT_DIR$/b.4A60_TriCompSnapVertexCat.html" />
+        <option value="$PROJECT_DIR$/b.4A60_TriCompExpHandlerVertexCat.js" />
       </list>
     </option>
   </component>
@@ -87,7 +78,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="15" />
+    <option name="x" value="18" />
     <option name="y" value="23" />
     <option name="width" value="1620" />
     <option name="height" value="987" />
@@ -144,6 +135,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/TriCompExpHandlerAng2.js" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -158,15 +150,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1469733398381</updated>
-      <workItem from="1469733399756" duration="15401000" />
+      <workItem from="1469733399756" duration="21226000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15401000" />
+    <option name="totallyTimeSpent" value="21226000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="15" y="23" width="1620" height="987" extended-state="0" />
+    <frame x="18" y="23" width="1620" height="987" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -235,21 +227,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/b.4A60_TriCompExpHandlerVertexCat.js">
+    <entry file="file://$USER_HOME$/Downloads/TriCompExpHandlerAng2.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="302">
-          <caret line="593" column="96" selection-start-line="593" selection-start-column="96" selection-end-line="593" selection-end-column="96" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+        <state relative-caret-position="225">
+          <caret line="336" column="2" selection-start-line="336" selection-start-column="2" selection-end-line="336" selection-end-column="2" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/b.4A60_TriCompSnapVertexCat.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="671">
-          <caret line="329" column="5" selection-start-line="329" selection-start-column="5" selection-end-line="329" selection-end-column="5" />
+        <state relative-caret-position="896">
+          <caret line="293" column="0" selection-start-line="293" selection-start-column="0" selection-end-line="293" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/b.4A60_TriCompExpHandlerVertexCat.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="512">
+          <caret line="473" column="96" selection-start-line="473" selection-start-column="96" selection-end-line="473" selection-end-column="96" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
