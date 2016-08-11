@@ -195,7 +195,7 @@ function examplePage0() {
     var paper2 = Snap("#ExampleTrain0").attr({width: "1500", height: "1000"});
 
     var TriBaseLength = 0.4;
-    var TriBaseAngle = Math.PI / 4;
+    var TriBaseAngle = Math.PI / 3;
     var dist = function (pt1, pt2) {
         var dx = pt1.x - pt2.x;
         var dy = pt1.y - pt2.y;
@@ -295,7 +295,7 @@ function examplePage1() {
     var paper3 = Snap("#ExampleTrain1").attr({width: "1500", height: "1000"});
 
     var TriBaseLength = 0.4;
-    var TriBaseAngle = Math.PI / 3; //45 degrees
+    var TriBaseAngle = Math.PI / 3; //60 degrees
     var dist = function (pt1, pt2) {
         var dx = pt1.x - pt2.x;
         var dy = pt1.y - pt2.y;
@@ -340,25 +340,30 @@ function examplePage1() {
         (TriBaseYPos - 400) - Math.cos(Math.PI / 3) * LengthAngleSideOrig * BaseLengthFactor).attr(
         {strokeWidth: 5, stroke: "black", strokeLinecap: "round"});
 
-    // var triARight = paper3.line(TriBaseXStart - 180 + TriSideXLengthIn, (TriBaseYPos - 400) - Math.cos(Math.PI / 3)
-    //     * LengthAngleSideOrig * BaseLengthFactor, TriBaseXStart - 100, TriBaseYPos - 400).attr(
-    //     {strokeWidth: 5, stroke: "black", strokeLinecap: "round"});
+    var triARight = paper3.line(TriBaseXStart - 180 + TriSideXLengthIn, (TriBaseYPos - 400) - Math.cos(Math.PI / 3)
+        * LengthAngleSideOrig * BaseLengthFactor, TriBaseXStart - 100, TriBaseYPos - 400).attr(
+        {strokeWidth: 5, stroke: "black", strokeLinecap: "round"});
     var labelA = paper3.text(TriBaseXStart - 180, TriBaseYPos - 380, "A");
 
     // 30 degree angle
-    var triBBase = paper3.line(TriBaseXStart - 30, TriBaseYPos - 400, TriBaseXStart - 30 + TriSideXLengthIn * 2, TriBaseYPos - 400).attr(
+    var triBLeft = paper3.line(TriBaseXStart - 50, TriBaseYPos - 400, TriBaseXStart - 50 + TriSideXLengthIn,
+        (TriBaseYPos - 400) - Math.cos(Math.PI / 2.5) * LengthAngleSideOrig * BaseLengthFactor).attr(
         {strokeWidth: 5, stroke: "black", strokeLinecap: "round"});
-    var triBSide = paper3.line(TriBaseXStart - 30, TriBaseYPos - 400, TriBaseXStart - 30 + TriSideXLengthIn, (TriBaseYPos - 400) -
-        Math.tan(Math.PI / 4) * LengthAngleSideOrig * BaseLengthFactor).attr({strokeWidth: 5, stroke: "black", strokeLinecap: "round"});
-    var labelB = paper3.text(TriBaseXStart - 30, TriBaseYPos - 380, "B");
+    var triBRight = paper3.line(TriBaseXStart - 50 + TriSideXLengthIn,
+        (TriBaseYPos - 400) - Math.cos(Math.PI / 2.5) * LengthAngleSideOrig * BaseLengthFactor, TriBaseXStart + 30, TriBaseYPos - 400).attr(
+        {strokeWidth: 5, stroke: "black", strokeLinecap: "round"});
+    var labelB = paper3.text(TriBaseXStart -50, TriBaseYPos - 380, "B");
 
 
     // 90 degree angle
-    var triCBase = paper3.line(TriBaseXStart + 120, TriBaseYPos - 400, TriBaseXStart + 120 + TriSideXLengthIn * 2, TriBaseYPos - 400).attr(
+    var triCLeft = paper3.line(TriBaseXStart + 100, TriBaseYPos - 400, TriBaseXStart + 100 + TriSideXLengthIn,
+        (TriBaseYPos - 400) - Math.cos(Math.PI / 6) * LengthAngleSideOrig * BaseLengthFactor).attr(
         {strokeWidth: 5, stroke: "black", strokeLinecap: "round"});
-    var triCSide = paper3.line(TriBaseXStart + 120, TriBaseYPos - 400, TriBaseXStart + 120,
-        TriBaseYPos - 470).attr({strokeWidth: 5, stroke: "black", strokeLinecap: "round"});
-    var labelC = paper3.text(TriBaseXStart + 120, TriBaseYPos - 380, "C");
+    var triCRight = paper3.line(TriBaseXStart + 100 + TriSideXLengthIn,
+        (TriBaseYPos - 400) - Math.cos(Math.PI / 6) * LengthAngleSideOrig * BaseLengthFactor, TriBaseXStart + 180, TriBaseYPos - 400).attr(
+        {strokeWidth: 5, stroke: "black", strokeLinecap: "round"});
+    var labelA = paper3.text(TriBaseXStart + 100, TriBaseYPos - 380, "C");
+
 
 
     // //counter button
